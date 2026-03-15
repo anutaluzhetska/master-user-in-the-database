@@ -1,4 +1,4 @@
-Master user in the database
+# Master user in the database
 
 Advanced console user management system on Node.js and PostgreSQL.
 
